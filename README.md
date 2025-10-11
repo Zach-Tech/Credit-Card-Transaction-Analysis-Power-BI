@@ -3,6 +3,14 @@
 This project presents a **comprehensive Credit Card Transaction Analysis Dashboard** built using **Power BI** and **SQL**, designed to uncover actionable insights into customer spending behavior, card performance, and revenue trends.  
 It showcases an **end-to-end data analytics workflow** — from raw data cleaning to real-time interactive reporting.
 
+![Language](https://img.shields.io/badge/Language-SQL-blue)
+![Database](https://img.shields.io/badge/Database-PostgreSQL-green)
+![Tool](https://img.shields.io/badge/Tool-Power_BI-yellow)
+![Process](https://img.shields.io/badge/Process-ETL_(Extract→Transform→Load)-orange)
+![Skill](https://img.shields.io/badge/Skill-DAX_&_Power_Query-lightgreen)
+![Focus](https://img.shields.io/badge/Focus-Data_Analysis_&_Visualization-red)
+![Mode](https://img.shields.io/badge/Update-Real_Time_Data-purple)
+
 ---
 
 ## 🎯 Project Objective
